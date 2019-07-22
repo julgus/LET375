@@ -1,2 +1,2 @@
 # LET375
-Inlämningsuppgifter i kursen Algoritmer och datastrukturer på Chalmers
+Assignments given in the course Algorithms and Datastructures at Chalmers University of Technology
